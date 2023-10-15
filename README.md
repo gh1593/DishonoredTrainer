@@ -20,5 +20,5 @@ Dishonored\Binaries\Win32\ **dinput8.dll**
 Clone this repo, open sln with visual studio, make sure it's set to Release & x86, and press build, the asi file will be genreated.
 
 ## Other:
-### This trainer depends on [Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) to be automatically﻿ loaded with the game, put it next to game exe named "dinput8.dll".
+### This trainer depends on [Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) to be automatically﻿ loaded with the game.
 ### This project is based on [Crayfry](https://github.com/Crayfry)'s [﻿Dishonored_Cheat_menu](https://github.com/Crayfry/Dishonored_Cheat_menu), thanks to him!
