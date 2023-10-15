@@ -2,6 +2,8 @@
 
 An ingame trainer for this old game.
 
+## ⚙[NexusMods Page](https://www.nexusmods.com/dishonored/mods/81)
+
 # HOW TO USE:
 ## Use Ultimate-ASI-Loader method
 ### Step 1. Copy the asi file to **Dishonored\Binaries\Win32** folder like:
